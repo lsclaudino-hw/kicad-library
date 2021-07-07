@@ -1,0 +1,10 @@
+(module Battery_Contact_Positive_small (layer F.Cu) (tedit 60476AEF)
+  (fp_text reference REF** (at -4.4704 -3.3655) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Battery_Contact_Positive_small (at 0.0635 -6.1849) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 2.05875 -1.3843) (xy -2.05875 -1.3843) (xy -1.74125 -1.905) (xy 1.74125 -1.905)) (layer F.SilkS) (width 0.1))
+  (pad 1 thru_hole oval (at 0 0) (size 5 2) (drill oval 4 1) (layers *.Cu *.Mask))
+)
