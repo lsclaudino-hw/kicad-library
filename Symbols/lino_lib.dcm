@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP XL6019
+D Buck boost
+K module stepdown step down buck converter DCDC DC
+$ENDCMP
+#
 #End Doc Library
