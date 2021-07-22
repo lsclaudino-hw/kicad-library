@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM2596-Module
+D Buck boost
+K module stepdown step down buck converter DCDC DC
+$ENDCMP
+#
 $CMP MPX5700
 F https://www.nxp.com/docs/en/data-sheet/MPX5700.pdf
 $ENDCMP
