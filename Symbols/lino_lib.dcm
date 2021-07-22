@@ -9,6 +9,10 @@ $CMP MPX5700
 F https://www.nxp.com/docs/en/data-sheet/MPX5700.pdf
 $ENDCMP
 #
+$CMP WIZ820io
+F https://br.mouser.com/datasheet/2/443/WIZ820io_User_Manual_V1.0-586418.pdf
+$ENDCMP
+#
 $CMP XL6019
 D Buck boost
 K module stepdown step down buck converter DCDC DC
